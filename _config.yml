@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "3DS Guide"
+title                    : "PS4 Hacking"
 title_separator          : "-"
-name                     : "Plailect"
-description              : "Full sighax CFW Guide"
-url                      : "https://3ds.guide" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-enforce_ssl              : "3ds.guide"
+name                     : "LordYusei"
+description              : "A complete tutorial on hacking the PS4"
+url                      : "https://lordyusei.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+enforce_ssl              : ""
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "Plailect/Guide" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "LordYusei/Guide" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -78,11 +78,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Plailect"
+  name             : "LordYusei"
   avatar           : "bio-photo.png"
-  bio              : "3DS Hacker"
-  location         : "Nullsec"
-  email            : "Plailect@gmail.com"
+  bio              : "PS4 Hacker"
+  location         : "GhostSec"
+  email            : "lordyusei1@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
